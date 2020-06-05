@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -Wall -fno-rtti  -shared  -o libLLVMInstr.so CMakeFiles/LLVMInstr.dir/Instr.o 
